@@ -4,7 +4,7 @@ const ProjectCard = (props) => {
     return (
         <div className='max-w-xs bg-gray-800 border border-gray-700 rounded-lg shadow  mx-2 my-4 sm:mb-0'>
             <div>
-                <img className='rounded-t-lg' src={props.imgurl} alt="project image" />
+                <img className='rounded-t-lg' src={props.imgurl} alt="project" />
                 <div className='p-4'>
                     <h5 className="text-white font-black md:text-3xl text-left">{props.name}</h5>
                     <p className="my-2 font-normal text-gray-400 ">{props.text}</p>
