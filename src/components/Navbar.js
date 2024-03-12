@@ -25,6 +25,8 @@ const Navbar = () => {
                             <div className="-mr-2 flex md:hidden">
                                 {/* Headless UI Disclosure Button */}
                                 <Disclosure.Button className="text-gray-400 hover:text-white focus:outline-none">
+                                        
+                                  
                                         <svg
                                             xmlns="http://www.w3.org/2000/svg"
                                             fill="none"
@@ -36,9 +38,10 @@ const Navbar = () => {
                                                 strokeLinecap="round"
                                                 strokeLinejoin="round"
                                                 strokeWidth="2"
-                                                d="M6 18L18 6M6 6l12 12"
+                                                d="M4 6h16M4 12h16m-7 6h7"
                                             />
                                         </svg>
+                                    
                                 </Disclosure.Button>
                             </div>
                         </div>
