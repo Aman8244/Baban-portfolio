@@ -12,11 +12,6 @@ const Experience = () => {
             position:"Intern, SISTMR AUSTRALIA, Jaipur",
             duration:"Unknown",
             text:"Analyzed problems and worked with teams to develop solutions Interacted with customers by phone, email, or in-person to provide information, Completed research, compiled data, updated spreadsheets, and produced timely reports.Sorted and organized files, spreadsheets, and reports"
-        },
-        {
-            position:"Cinemanewstv",
-            duration:"January 2022 - Present",
-            text:"Founder"
         }
     ]
     return (
