@@ -14,7 +14,7 @@ const About = () => {
                         Open Source Contributor | DSA Enthusiast
                     </p>
                     <div className="btn flex justify-center my-4">
-                        <a href="https://wa.me/9927841705" target="_blank" rel="noopener noreferrer" className="cursor-pointer group relative flex gap-1.5 px-4 py-2 bg-white text-[#000000] rounded-3xl hover:bg-opacity-70 transition font-semibold shadow-md mr-1">
+                        <a href="https://wa.me/9588924964" target="_blank" rel="noopener noreferrer" className="cursor-pointer group relative flex gap-1.5 px-4 py-2 bg-white text-[#000000] rounded-3xl hover:bg-opacity-70 transition font-semibold shadow-md mr-1">
                             Get in Touch
                         </a>
                         <a href="/baban.pdf" download="" target="_blank" rel="noreferrer" className="ml-1 cursor-pointer group relative flex gap-1.5 px-4 py-2 border text-white border-white rounded-3xl hover:bg-opacity-70 hover:text-gray-300 transition duration-200 ease-in-out font-semibold shadow-md">

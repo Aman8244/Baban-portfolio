@@ -8,7 +8,7 @@ const ContactMe = () => {
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-center text-white">
                         Let's Talk
                     </h2>
-                    <form action="https://formspree.io/f/mbjnyerd" method="POST" className="space-y-8">
+                    <form action="https://formspree.io/f/xwkgqjdk" method="POST" className="space-y-8">
                         <div>
                             <label for="text" className="block mb-2 text-sm font-medium  text-white ">Your Name</label>
                             <input type="text" id="text" name="text" className="shadow-sm bg-gray-700 border border-gray-600 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 placeholder-gray-400 dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light" placeholder="Baban Mulchandani" required="" fdprocessedid="2rkakl" />
