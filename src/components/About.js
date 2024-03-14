@@ -10,8 +10,8 @@ const About = () => {
                         I am<span className="ml-2 pt-4" style={{WebkitTextFillColor: '#FF8660'}}>Baban Mulchandani</span>
                     </div>
                     <p className="py-2 text-lg text-gray-400">
-                        FullStack Developer | UI/UX Designer<br />
-                        Open Source Contributor | DSA Enthusiast
+                        System Administrator | System Engineer<br />
+                        Cloud Engineer | Network Engineer
                     </p>
                     <div className="btn flex justify-center my-4">
                         <a href="https://wa.me/9588924964" target="_blank" rel="noopener noreferrer" className="cursor-pointer group relative flex gap-1.5 px-4 py-2 bg-white text-[#000000] rounded-3xl hover:bg-opacity-70 transition font-semibold shadow-md mr-1">
